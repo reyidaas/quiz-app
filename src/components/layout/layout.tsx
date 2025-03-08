@@ -32,7 +32,7 @@ const Layout: FC<Props> = ({ children }) => {
           bottom={6}
           right={6}
           target="_blank"
-          href="https://github.com/m-rejdych/quiz-app"
+          href="https://github.com/reyidaas/quiz-app"
           color="gray.500"
         >
           <Icon aria-label="github-link" as={ImGithub} />
